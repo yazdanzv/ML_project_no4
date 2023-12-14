@@ -21,6 +21,7 @@ sdist/
 var/
 .idea/*
 .idea
+*.pdf
 wheels/
 share/python-wheels/
 *.egg-info/
